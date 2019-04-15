@@ -1,0 +1,257 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: black;
+}
+ nav{
+    width: 100%;
+    height: 150px;
+}
+
+.pic-mn{
+    width: 85px;
+    height: 85px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.space-one{
+    margin-left: 70%;
+}
+.pic-home{
+    width: 85px;
+    height: 85px;
+}
+
+.pic-h{
+    width: 85px;
+    height: 82px;
+
+}
+
+.pic-m{
+    width: 85px;
+    height: 85px;
+
+}
+.computer{
+    margin-left: 29.5%;
+    margin-top: 20px;
+    
+} 
+.monsterb{
+    width: 120px;
+    height: 129px;
+    border-radius: 25%;
+    border: solid 2px black;
+    background-color: red; 
+    margin: 10%;
+}
+.monsterl{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 145px;
+    margin-right: -10px;
+    background-color: darkgoldenrod;
+}
+.base{
+    width: 220px;
+    height: 20px;
+    border-radius: 2%;
+    margin-left: -60px;
+    background-color: blueviolet;
+
+}
+.losango{
+    width: 20px;
+    height: 180px;
+    margin: auto;
+    margin-top: -240px;
+    margin-left: 145px;
+     -webkit-transform: rotate(-10deg);
+    /* -moz-transform: rotate(45deg); */
+    /* -ms-transform: rotate(45deg); */
+    /* -o-transform: rotate(45deg); */
+    /* transform: rotate(45deg);  */
+    background-color: blueviolet;
+}
+.bolinha{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    margin-left: -45px;
+    margin-top: 9px;
+    background-color: chartreuse;
+}
+.bolinha2{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    /* margin: auto; */
+    margin-top: -29.9px;
+    margin-left: 115px;
+    background-color: chartreuse;
+}
+
+.monsterl2{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: darkgoldenrod;
+}
+.canela{
+    width: 10px;
+    height: 79.9px;
+    -webkit-transform: rotate(10deg);
+    background-color: white;
+    margin-top: -95.5px;
+    margin-left: 34.5px;
+}
+.braço{
+    width: 80px;
+    height: 10px;
+    background-color: white;
+    -webkit-transform: rotate(-29deg);
+    margin-left: 42px;
+    margin-top: -185px;
+}
+.mao{
+    width: 18px;
+    height: 18px;
+    margin-left: 125px;
+    margin-top: -40%;
+    background-color: darkgoldenrod;
+}
+.cabeca{
+    width: 120px;
+    height: 88px;
+    margin-top: -180px;
+}
+.box2{
+    width: 33%;
+    margin-top: 90px;
+    margin-left: 57%;
+}
+.cabeça{
+    margin-top: -185px;
+    margin-left: 790px;
+}
+.dois{
+    margin-left: 600%;
+}
+.duck{
+    width: 80px;
+    height: 100px;
+}
+.v{
+    width: 40px;
+    height: 40px;
+}
+.a{
+    width: 120px;
+    height: 129px;
+    border-radius: 25%;
+    border: solid 2px black;
+    background-color: blue; 
+    margin: 10%;
+    display: inline-block;
+    margin-left: 770px;
+    margin-top: -24%;
+}
+.b{
+    /* width: 10px;
+    height: 49.9px;
+    margin-top: -90px;
+    margin-left: 740px;
+    -webkit-transform: rotate(-50deg);
+
+    background-color: white; */
+  
+}
+.c{
+    width: 18px;
+    height: 18px;
+    margin-left: 125px;
+    margin-top: -40%;
+    background-color: indianred;
+}
+.d{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 65px;
+    margin-left: 845px;
+    background-color: darkgoldenrod;
+}
+.e{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: -43px;
+    margin-right: -695px;
+    background-color: darkgoldenrod;
+}
+.pic-foot{
+    width: 380px;
+    height: 190px;
+    margin-top: 200px;
+    display: inline-flex;
+
+}
+.ultimate{
+    font-size: 30px;
+    font-family:  'Cute Font', cursive;
+    color: purple;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 400px;
+}
+ul{
+    /*position: relative;*/
+    margin-bottom: 20px;
+    margin-top: -90px;
+    display: inline-block;
+}
+.prgph{
+    font-size: 21px;
+    font-family: 'Rock Salt', cursive;
+    color: purple;
+    margin-top: 5px;
+    margin-left: 640px;
+    display: inline-block;
+}
+
+}
+.pe{
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Rock Salt', cursive;
+    color: purple;
+    margin-left: 650px;
+    margin-top: -196px;
+}
+input{
+    margin-left: 690px;
+    margin-top: -6px;
+}
+.dificul{
+    margin-top: -80px;
+}
